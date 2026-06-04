@@ -1,0 +1,5 @@
+pyReedSolomon>=1.7.0
+protobuf>=4.25.0
+cryptography>=42.0.0
+geohash2>=1.1
+sqlite3  # stdlib
