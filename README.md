@@ -1,4 +1,4 @@
-# clarksburg-steward
+# sentinel-node-demo
 
 SENTINEL-NODE: synthetic demonstration of surveillance / counter-surveillance 2nd and 3rd order effects. models multi-source RF signal fusion (trunking, aviation, mesh networks) against adaptive defensive postures to illustrate feedback loops, strategic vulnerabilities, and information asymmetries.
 
